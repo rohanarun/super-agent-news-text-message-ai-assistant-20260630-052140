@@ -1,0 +1,60 @@
+{
+  "citations": [
+    "[theaijournal.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS1VdzhmZDVVTnNaUFotYVRhUmtIOUI2VmRKTjBaZEpsS3dyOU9JRU1XbDRMY1lsMzBiNmkxMWh2Qmg3dy01RzNQSFYwcDFzeXdFeTNORWNVYnNjXzRVYTRwbXBjSzBzTjBXYk1JUExpbDhnNE5vSjFLSmFRdWcwdUsxekEzZzdlWW1hM1NGV2lrSl9zUlpZRUw5V3hJYXpaanRfTGVLeUxJbVp5M1NiVXF0LTRFb0tQaGwzSWVZcndjMVY5UWk5blE4QzFDZ3N1ZFlkdQ?oc=5)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzJuQTRxbjVUVU1sNjQ2Y3REU0JMOW9kOTJ2cE9LcWdNSE1WNlAtTk9DUUxtejRYNE4zSGhaaFNaOThDNHZJSlJaUmxya0NOQXZNVHVXWDYzd1Y2Q1hZS1hzaGNNakw3M1BidV8zU3ZiXzdxSURhem1IVFJmVDl4anJHdmZEczJl?oc=5)",
+    "[apple.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHh5ZUJodXpvNGI2Y09yQ25oNUszam5rendnZ2haX2l2dTMxbWcwU1Jlb0xjdnNRckNkMElCZy02aHhlQUFfNmZTeU1faE1vLW1aRzByektzWFJ4MEUycjJtY1dkRi1DVGN0dWNzdFIyQjlPdWJ2RG5LLTVXelN5SU5BUGZFeFZNSU0zMEpUcUFPLWxySlpSWjA2c0FvZDRxRzlZWWdPNU02M0JMVUVsN1Vfbw?oc=5)",
+    "[builtinsf.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CaG1TMnpYWHp2dWl4bGRNYVFIQnJDWGZhQ0Vub0VhVXR4UXpndzh4QTlGM29fTGJpd0VOU2luVGV2ckFEMkJJcFlGeGhoS194SWJYNXdwdmtIVnJSUVIxelJOa0ZCZGs?oc=5)"
+  ],
+  "design_plan": "rng_seed=42; hero_centered=True; justify_checks_passed=True; css_chars>4200; AIDA=pass; bento_dense=pass; competitors_label_sweep=pass; button_contrast=AA",
+  "generated_at": "2026-06-30T05:21:49.743762+00:00",
+  "headline": "Text message AI assistant that actually gets things done",
+  "site_brief": {
+    "audience": "people who want to text an AI assistant instead of opening another app",
+    "canonical_url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Text message AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "text message AI assistant",
+      "SMS AI assistant",
+      "personal AI assistant by text",
+      "AI agent texting workflow automation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "text-message-ai-assistant",
+    "title": "Text message AI assistant",
+    "use_case_intent": "show how Super turns SMS-style requests into real computer actions, follow-ups, reminders, and app workflows"
+  },
+  "summary": "An indexable /use-cases/ page showing how Super turns simple text messages into real computer actions, follow-ups, and reusable workflows \u2014 powered by a computer-use cache for faster, cheaper repeat runs."
+}
